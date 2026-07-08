@@ -21,5 +21,5 @@ resource "random_pet" "this" {
 }
 
 output "name" {
-  value = "a_name"
+  value = "another_name"
 }
